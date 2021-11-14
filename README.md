@@ -1,5 +1,5 @@
 # SystemLevelProgramming-Labs
-A repository of all my C projects in System Level Programming
+A branch of all my C projects in System Level Programming
 
 Each file can be compiled and executed through GCC (https://gcc.gnu.org/)
 
