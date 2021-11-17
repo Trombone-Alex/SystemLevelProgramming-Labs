@@ -1,0 +1,16 @@
+1. cat RealEstate.csv
+2. head -n 3 RealEstate.
+3. wc RealEstate.csv
+4. cat -n RealEstate.csv
+5. mkdir public
+6. cp Lab2_P2/RealEstate.csv Public/myRealEstate.csv
+7. pwd
+8. cd public
+9. mkdir Regular
+10. mkdir Submission
+11. mkdir Submission/Lab2
+12. mkdir Submission/Lab3
+13. mv Regular Others
+14. cp -r /home/asiegel11/Lab2_P2 /home/asiegel11/public/Submission/Lab2
+15. rm -r /home/asiegel11/Lab2_P2
+16. history
